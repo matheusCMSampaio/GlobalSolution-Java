@@ -36,7 +36,7 @@ git clone https://github.com/matheusCMSampaio/GlobalSolution-Java.git
 ```
 -- Acessar o seguinte site:
 
-[Swagger UI]([https://pages.github.com/](http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/))
+[Swagger UI](http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/)
 --------------------------------------------------
 
 
