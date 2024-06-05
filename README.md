@@ -27,7 +27,8 @@
 ```bash
 git clone https://github.com/matheusCMSampaio/GlobalSolution-Java.git
 ```
--- Acessar o seguinte site:
+- Rodar a aplicação
+- Acessar o seguinte site:
 
 [Swagger UI](http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/)
 --------------------------------------------------
