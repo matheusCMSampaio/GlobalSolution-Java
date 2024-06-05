@@ -40,7 +40,7 @@ git clone https://github.com/matheusCMSampaio/GlobalSolution-Java.git
 
 ## 📚 Projeto 
 
-<p>Nosso projeto planeja um desenvolvimento de uma API com machine leraning para analise de dados. Fazendo recomendações de produtos de uma provável compra para o usuário direcionado</p>
+<p></p>
 <p></p>
 
 <br/>
