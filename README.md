@@ -2,7 +2,7 @@
     <h2>DirtyCode</h2>
 </div>
 
-<p align="center"> <a href="" target="_blank">Vídeo PITCH de apresentação do projeto</a> </p>
+<p align="center"> <a href="https://youtu.be/bhJVbf40-5Q?si=fJIaT01FxUcJg4YP" target="_blank">Vídeo apresentação </a> </p>
 
 <h3>Integrantes</h3>
 
