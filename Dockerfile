@@ -7,9 +7,6 @@ COPY . /app
 # Definir o diretório de trabalho
 WORKDIR /app
 
-# Rodar o comando de build com o Maven
-RUN mvn clean package
-
 # Usar uma imagem base do OpenJDK para rodar a aplicação
 FROM openjdk:17-jdk-slim
 
