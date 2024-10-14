@@ -7,6 +7,8 @@ COPY . /app
 # Definir o diretório de trabalho
 WORKDIR /app
 
+EXPOSE 8080
+
 # Usar uma imagem base do OpenJDK para rodar a aplicação
 FROM openjdk:17-jdk-slim
 
