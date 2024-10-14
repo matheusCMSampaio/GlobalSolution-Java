@@ -1,0 +1,8 @@
+// Cadastro de Usuario
+// /user
+{
+    "nome": "Nome de Usuario",
+    "email": "email@gmail.com",
+    "senha": "senha1234",
+    "tipo": "Adm"
+}

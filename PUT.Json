@@ -1,0 +1,10 @@
+//Atualizar usuario
+
+//user/{id}
+
+{
+    "nome": "Nome de Usuario",
+    "email": "email@gmail.com",
+    "senha": "senha1234",
+    "tipo": "User"
+}

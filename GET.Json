@@ -1,0 +1,184 @@
+// user/todas
+// Retorna: 
+[
+    {
+      "idUsuario": 1,
+      "nome": "Pedro Gomes",
+      "email": "pedro.gomes@email.com",
+      "senha": "senhastu",
+      "tipo": "User",
+      "data": "2024-10-14T10:42:51.534+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/1"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 2,
+      "nome": "João Silva",
+      "email": "joao.silva@email.com",
+      "senha": "senha123",
+      "tipo": "Admin",
+      "data": "2024-10-14T10:43:46.650+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/2"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 3,
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@email.com",
+      "senha": "senha456",
+      "tipo": "User",
+      "data": "2024-10-14T10:43:46.681+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/3"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 4,
+      "nome": "Carlos Souza",
+      "email": "carlos.souza@email.com",
+      "senha": "senha789",
+      "tipo": "Admin",
+      "data": "2024-10-14T10:43:46.714+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/4"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 5,
+      "nome": "Ana Pereira",
+      "email": "ana.pereira@email.com",
+      "senha": "senhaabc",
+      "tipo": "User",
+      "data": "2024-10-14T10:43:46.742+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/5"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 6,
+      "nome": "Paulo Lima",
+      "email": "paulo.lima@email.com",
+      "senha": "senhadef",
+      "tipo": "Admin",
+      "data": "2024-10-14T10:43:46.771+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/6"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 7,
+      "nome": "Lucas Costa",
+      "email": "lucas.costa@email.com",
+      "senha": "senhaghi",
+      "tipo": "User",
+      "data": "2024-10-14T10:43:46.801+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/7"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 8,
+      "nome": "Fernanda Silva",
+      "email": "fernanda.silva@email.com",
+      "senha": "senhajkl",
+      "tipo": "User",
+      "data": "2024-10-14T10:43:46.838+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/8"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 9,
+      "nome": "Bruno Almeida",
+      "email": "bruno.almeida@email.com",
+      "senha": "senhamno",
+      "tipo": "Admin",
+      "data": "2024-10-14T10:43:46.886+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/9"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    },
+    {
+      "idUsuario": 10,
+      "nome": "Carla Rodrigues",
+      "email": "carla.rodrigues@email.com",
+      "senha": "senhapqr",
+      "tipo": "User",
+      "data": "2024-10-14T10:43:46.918+00:00",
+      "links": [
+        {
+          "rel": "Quer buscar o usuário por id? Acesse este serviço: ",
+          "href": "http://localhost:8080/user/10"
+        },
+        {
+          "rel": "Quer adicionar um novo usuário? Acesse este serviço (via POST Request): ",
+          "href": "http://localhost:8080/user"
+        }
+      ]
+    }
+  ]
